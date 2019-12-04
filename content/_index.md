@@ -1,11 +1,7 @@
 ---
 title: Home
 banner:
-  actions:
-    - is_primary: true
-      is_scrolly: false
-      label: Activate
-      url: /generic
+  actions: []
   bottom_link:
     has_arrow: true
     is_scrolly: true
