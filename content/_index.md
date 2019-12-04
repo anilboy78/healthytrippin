@@ -11,10 +11,7 @@ banner:
     is_scrolly: true
     label: Learn More
     url: '#one'
-  subtitle: |-
-    Blandit duis accumsan  
-    arcu sagittis viverra  
-    blandit at Interdum.
+  subtitle: 'Healthy, tasty and Organic food to everyone'
   title: Healthy Trippin
 sections:
   - background_style: style1
