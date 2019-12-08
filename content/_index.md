@@ -20,10 +20,10 @@ sections:
         style: style2
         title: Ipsum
     section_id: one
-    subtitle: "It was always my dream to be in the food business so\r if I am getting a chance to be in this industry then providing best quality food will be my first\r preference. I have also decided my brand name is going to be Healthy Trippin. I will always\r have organic food in my food truck which will also include Indian flavored cooked food so it\r will be healthy as it will be organic and new as there are very few Indian restaurants in this\r area. I will not be aiming any specific type of customers infect all people around this area will\r be in my customer range so I will try to cook in different styles. In terms of pricing I will go\r for the best price I could offer with having a very little margin as my profit. As my business is\r a moving food shop (Food Truck) it will be plus point for me to take my food to the maximum\r number of customers. I could take my food truck to the big events in the city where they can\r taste my food."
+    subtitle: "There are some restaurants and hotels\r\n\nwhich are providing Indian flavors in this area. Tandoori Nights and Rasoi are two of them\r\n\nand I have also visited these restaurants but found out that they are not serving dishes in\r\n\nproper Indian flavor. This encourage me to bring real Indian food in this area which will help\r\n\nme to become unique in this area. Secondly, food truck eliminate the need of food delivery.\r\n\nBecause food truck can be taken to anywhere. Fresh food can be cooked at the customer’s\r\n\nlocation which will also give satisfaction to the customers as they will witness the cooking\r\n\nprocess of the food and will not have any hygiene issues. We can’t be so sure about the big\r\n\nrestaurants hygiene levels as they have their kitchens where they cook the food behind the\r\n\nwalls. Food trucks can also eliminate the catering services for the small functions like\r\n\nbirthdays and office party’s. This will also help my food truck to get some fame from the\r\n\nguests in party. People will come to my food truck for my services as every ingredient which I\r\n\nuse in my food will be Organic."
     title: >-
-      My Vision for food truck is to creating my own brand that will provide the
-      healthy, tasty and Organic food to everyone.
+      A food truck brand on which everyone can trust where they can always eat
+      something heathy and conveniently at very reasonable prices.
     type: icons
 menu:
   main:
