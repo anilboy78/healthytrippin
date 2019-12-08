@@ -7,7 +7,7 @@ banner:
     is_scrolly: true
     label: Learn More
     url: '#one'
-  subtitle: 'Healthy, tasty and Organic food to everyone'
+  subtitle: 'Healthy, tasty and Organic food for everyone'
   title: Healthy Trippin
 sections:
   - background_style: style1
@@ -23,84 +23,11 @@ sections:
         style: style3
         title: Dolor
     section_id: one
-    subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-      ullamcorper.  
-    title: |-
-      Arcu aliquet vel lobortis ata nisl
-      eget augue amet aliquet nisl cep donec
+    subtitle: "It was always my dream to be in the food business so\r if I am getting a chance to be in this industry then providing best quality food will be my first\r preference. I have also decided my brand name is going to be Healthy Trippin. I will always\r have organic food in my food truck which will also include Indian flavored cooked food so it\r will be heathy as it will be organic and new as there are very few Indian restaurants in this\r area. I will not be aiming any specific type of customers infect all people around this area will\r be in my customer range so I will try to cook in different styles. In terms of pricing I will go\r for the best price I could offer with having a very little margin as my profit. As my business is\r a moving food shop (Food Truck) it will be plus point for me to take my food to the maximum\r number of customers. I could take my food truck to the big events in the city where they can\r taste my food."
+    title: >-
+      My Vision for food truck is to creating my own brand that will provide the
+      healthy, tasty and Organic food to everyone.
     type: icons
-  - background_style: style2
-    component: spotlights.html
-    section_id: two
-    spotlights:
-      - home_img_path: images/pic01.jpg
-        text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        title: |-
-          Magna primis lobortis
-          sed ullamcorper
-      - home_img_path: images/pic02.jpg
-        text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        title: |-
-          Tortor dolore feugiat
-          elementum magna
-      - home_img_path: images/pic03.jpg
-        text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        title: |-
-          Augue eleifend aliquet
-          sed condimentum
-    title: Spotlights Section
-    type: spotlights
-  - background_style: style3
-    component: features.html
-    features:
-      - icon: fa-paper-plane-o
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Arcu accumsan
-      - icon: fa-laptop
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Ac Augue Eget
-      - icon: fa-code
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Mus Scelerisque
-      - icon: fa-headphones
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Mauris Imperdiet
-      - icon: fa-heart-o
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Aenean Primis
-      - icon: fa-flag-o
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Tortor Ut
-    section_id: three
-    subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
-    title: Accumsan mus tortor nunc aliquet
-    type: features
   - actions:
       - is_primary: true
         is_scrolly: false
