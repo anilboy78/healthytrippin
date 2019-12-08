@@ -1,5 +1,1 @@
-actions:
-  - label: Sign Up
-    url: /generic
-  - label: Log In
-    url: /generic
+actions: []
