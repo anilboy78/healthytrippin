@@ -1,6 +1,6 @@
 ---
-title: Generic Page
-subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+title: Strategies
+subtitle: "Differentiation-cost strategy. This strategy includes the uniqueness of my product and\r the low cost that I am planning to offer. So this is the best fit strategy for my food truck."
 background_style: style5
 menu:
   main:
