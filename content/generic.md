@@ -8,16 +8,15 @@ menu:
     weight: 2
 layout: page
 ---
+### Socially responsible
 
-### Lorem ipsum dolor
+Every firm need to be socially responsible. Most of the old firms are becoming socially responsible for example google is using electricity from there own solar farms. My firm will also be socially responsible as it will be open for public. I have already planed that my food truck will server the best, organic and healthy food to the customer and will be cooked at the customers place so it will also be hygienic so customers will be aware about the hygiene quality of the food. I will also make sure that all the food items, which I will have on my food truck, will be mention on my food menu with the entire ingredients used in the food item so that customers are aware that what they are going to eat. Sometimes customers may have allergies to the ingredients we used in specific item so it will be good to have the ingredient in the menu. I will also install solar panels on my truck so that I can save natural resource of energy.
 
-Morbi mattis mi consectetur tortor elementum, varius pellentesque velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo. Maecenas sagittis felis ac sagittis semper. Curabitur purus leo, tempus sed finibus eget, fringilla quis risus. Maecenas et lorem quis sem varius sagittis et a est. Maecenas iaculis iaculis sem. Donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo. Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci fringilla tincidunt. Aliquam eleifend ligula non velit accumsan cursus. Etiam ut gravida sapien.
 
-Vestibulum ultrices risus velit, sit amet blandit massa auctor sit amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis id vel diam. Praesent sit amet posuere risus, eu faucibus lectus. Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam. Proin nec dui cursus, posuere dui eget interdum. Fusce lectus magna, sagittis at facilisis vitae, pellentesque at etiam. Quisque posuere leo quis sem commodo, vel scelerisque nisi scelerisque. Suspendisse id quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec felis elementum varius.
 
-***
+- - -
 
-#### Feugiat aliquam
+#### Will your company be an early mover, an early follower, or a late follower? Explain why.
 
 Nam sapien ante, varius in pulvinar vitae, rhoncus id massa. Donec varius ex in mauris ornare, eget euismod urna egestas. Etiam lacinia tempor ipsum, sodales porttitor justo. Aliquam dolor quam, semper in tortor eu, volutpat efficitur quam. Fusce nec fermentum nisl. Aenean erat diam, tempus aliquet erat.
 
