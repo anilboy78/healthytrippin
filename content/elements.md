@@ -5,7 +5,7 @@ subtitle: >-
   healthy, tasty and Organic food to everyone
 menu:
   main:
-    name: Elements
+    name: Vision
     weight: 3
 layout: elements
 ---
