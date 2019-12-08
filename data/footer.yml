@@ -13,6 +13,6 @@ social_icons:
     url: '#'
   - icon: fa-envelope-o
     title: Email
-    url: anilboy82ss@gmail.com
+    url: 'mailto: anilboy82ss@gmail.com'
 copyright: '&copy; Spectral'
 links: []
