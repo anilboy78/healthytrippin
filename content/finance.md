@@ -28,4 +28,8 @@ _****_
 
 _****_
 
-_These are the basic things which I need to purchase while starting my business. The main and most expensive item would be the food truck itself which will cost me $85000 once. Cooking utensils are also cost me more in start because at that time I need to buy all the utensils at start but after 1st month it will only cost me very less every month. I will also have salary for myself as I will be working full time on my truck. Other than these truck maintenance, Licenses and insurance will also cost me monthly._
+These are the basic things which I need to purchase while starting my business. The main and most expensive item would be the food truck itself which will cost me $85000 once. Cooking utensils are also cost me more in start because at that time I need to buy all the utensils at start but after 1st month it will only cost me very less every month. I will also have salary for myself as I will be working full time on my truck. Other than these truck maintenance, Licenses and insurance will also cost me monthly.
+
+I am expecting someone with faith that this business has some potential to be successful in this area or we can say he believes in my idea. It will be good if get the stakeholder with same thinking. On other hand I also think that banks can also provide me business startup loan if I save some amount so that it will be easy for me to start my project.
+
+__
